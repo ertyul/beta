@@ -4,4 +4,5 @@ enum Animals {
     DOG,
     LION,
     CAT,
+    TIGGER,
 }
